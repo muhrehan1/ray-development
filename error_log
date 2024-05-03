@@ -1,0 +1,315 @@
+[09-Nov-2023 22:25:03 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[09-Nov-2023 22:25:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[09-Nov-2023 22:25:06 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[09-Nov-2023 22:25:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[09-Nov-2023 22:25:45 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[09-Nov-2023 22:25:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[09-Nov-2023 22:26:15 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[09-Nov-2023 22:26:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[09-Nov-2023 22:26:20 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[09-Nov-2023 22:26:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[09-Nov-2023 22:28:39 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[09-Nov-2023 22:28:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[09-Nov-2023 22:32:17 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[09-Nov-2023 22:32:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[09-Nov-2023 22:32:18 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[09-Nov-2023 22:32:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[09-Nov-2023 22:32:39 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[09-Nov-2023 22:32:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[10-Nov-2023 15:25:02 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[10-Nov-2023 15:25:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[10-Nov-2023 15:25:07 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[10-Nov-2023 15:25:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[10-Nov-2023 15:25:07 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[10-Nov-2023 15:25:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[10-Nov-2023 15:25:39 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[10-Nov-2023 15:25:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[10-Nov-2023 15:25:40 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[10-Nov-2023 15:25:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[13-Nov-2023 11:45:24 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[13-Nov-2023 11:45:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[13-Nov-2023 11:45:39 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[13-Nov-2023 11:45:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[13-Nov-2023 13:12:53 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[13-Nov-2023 13:12:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[13-Nov-2023 13:13:12 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[13-Nov-2023 13:13:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[13-Nov-2023 13:13:43 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[13-Nov-2023 13:13:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[13-Nov-2023 13:13:49 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[13-Nov-2023 13:13:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[13-Nov-2023 13:14:15 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[13-Nov-2023 13:14:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[14-Nov-2023 14:13:22 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[14-Nov-2023 14:13:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[14-Nov-2023 14:13:34 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[14-Nov-2023 14:13:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[17-Nov-2023 11:46:25 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[17-Nov-2023 11:46:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[18-Nov-2023 03:06:35 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[18-Nov-2023 03:06:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[20-Nov-2023 10:57:10 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[20-Nov-2023 10:57:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[20-Nov-2023 10:57:23 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[20-Nov-2023 10:57:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[20-Nov-2023 10:59:53 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[20-Nov-2023 10:59:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[20-Nov-2023 11:02:26 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[20-Nov-2023 11:02:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[21-Nov-2023 08:11:47 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[21-Nov-2023 08:11:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[22-Nov-2023 12:59:21 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[22-Nov-2023 12:59:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[22-Nov-2023 15:57:30 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[22-Nov-2023 15:57:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[23-Nov-2023 09:53:06 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[23-Nov-2023 09:53:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[24-Nov-2023 12:18:23 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[24-Nov-2023 12:18:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[24-Nov-2023 15:23:11 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[24-Nov-2023 15:23:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[24-Nov-2023 15:23:11 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[24-Nov-2023 15:23:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[24-Nov-2023 15:27:51 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[24-Nov-2023 15:27:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[13-Apr-2024 06:37:49 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[13-Apr-2024 06:37:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[14-Apr-2024 17:29:29 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[14-Apr-2024 17:29:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[14-Apr-2024 17:30:38 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[14-Apr-2024 17:30:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[14-Apr-2024 17:31:23 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[14-Apr-2024 17:31:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[14-Apr-2024 17:32:25 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[14-Apr-2024 17:32:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[21-Apr-2024 19:55:36 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[21-Apr-2024 19:55:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[21-Apr-2024 20:51:01 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[21-Apr-2024 20:51:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[21-Apr-2024 21:22:40 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[21-Apr-2024 21:22:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[22-Apr-2024 03:24:53 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[22-Apr-2024 03:24:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[22-Apr-2024 03:48:03 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[22-Apr-2024 03:48:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[22-Apr-2024 05:10:44 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[22-Apr-2024 05:10:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[22-Apr-2024 05:48:26 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[22-Apr-2024 05:48:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[22-Apr-2024 13:58:33 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[22-Apr-2024 13:58:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[22-Apr-2024 18:17:27 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[22-Apr-2024 18:17:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[22-Apr-2024 18:17:27 UTC] PHP Warning:  require_once(/home/staging/public_html/dev/ray-development/system/core/Common.php): Failed to open stream: No such file or directory in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[22-Apr-2024 18:17:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/staging/public_html/dev/ray-development/system/core/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php:80
+Stack trace:
+#0 /home/staging/public_html/dev/ray-development/index.php(315): require_once()
+#1 {main}
+  thrown in /home/staging/public_html/dev/ray-development/system/core/CodeIgniter.php on line 80
+[22-Apr-2024 23:23:35 UTC] PHP Fatal error:  Cannot redeclare Passport::applications_list() in /home/staging/public_html/dev/ray-development/application/controllers/Passport.php on line 1672
+[22-Apr-2024 23:24:11 UTC] PHP Fatal error:  Cannot redeclare Passport::applications_list() in /home/staging/public_html/dev/ray-development/application/controllers/Passport.php on line 1672
+[22-Apr-2024 23:25:45 UTC] PHP Fatal error:  Cannot redeclare Passport::applications_list() in /home/staging/public_html/dev/ray-development/application/controllers/Passport.php on line 1672
